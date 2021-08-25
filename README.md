@@ -1,13 +1,21 @@
-# Hi there 👋
+# Hi, I'm Chan 🐻
 
+Chanvit Moungyoo is here
 
+I'm 4th year Computer Engineering student in Thammasat University, Sirindhorn International Institute of Technology
 
-- 🔭 I’m currently studying at Thammasat University
+- 🔭 I’m currently living in Bangkok
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with my financial
-- 💬 Ask me about ...
-- 📫 How to reach me: chanvit.moungyoo@icloud.com
-- 😄 Pronouns: It
+- 💬 Ask me about anything
+- 😄 Pronouns: as you like
 - ⚡ Fun fact: I'm funny haha
 - 👀 My portfolio: https://chanvitfolio.web.app
+
+# Socials📱
+
+You can reach me here:
+
+✉️ chanvit.moungyoo@icloud.com
+
