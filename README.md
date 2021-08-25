@@ -10,3 +10,4 @@
 - 📫 How to reach me: chanvit.moungyoo@icloud.com
 - 😄 Pronouns: It
 - ⚡ Fun fact: I'm funny haha
+- 👀 My portfolio: https://chanvitfolio.web.app/#about
