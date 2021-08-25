@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chanvit's Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="shortcut icon" href="/Assets/shib.png">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
+      integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc"
+      crossorigin="anonymous"/>
+
+      <style>
+        
+        /* The Modal (background) */
+        .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 2; /* Sit on top */
+          padding-top: 350px; /* Location of the box */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; 
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+        
+        /* Modal Content */
+        .modal-content {
+          background-color: black;
+          margin: auto;
+          padding: 20px;
+          font-size: 20px;
+          border-radius: 10px;
+          width: 50%;
+          color: white;
+        }
+        
+        /* The Close Button */
+        .close {
+          color: white;
+          float: right;
+          font-size: 28px;
+          font-weight: bold;
+        }
+        
+        .close:hover,
+        .close:focus {
+          color: blue;
+          text-decoration: none;
+          cursor: pointer;
+        }
+        </style>
+     
+  </head>
+  <body>
+    <!-- Navbar Section -->
+    <nav class="navbar">
+      <div class="navbar__container">
+        <a href="#home" id="navbar__logo">Chanvit Moungyoo</a>
+        <div class="navbar__toggle" id="mobile-menu">
+          <span class="bar"></span> <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+        <ul class="navbar__menu">
+          <li class="navbar__item">
+            <a href="#home" class="navbar__links" id="home-page">Home</a>
+          </li>
+          <li class="navbar__item">
+            <a href="#about" class="navbar__links" id="about-page">About Me</a>
+          </li>
+          <li class="navbar__item">
+            <a href="#services" class="navbar__links" id="services-page">Documents</a>
+          </li>
+          <h1></h1>
+          <li class="navbar__item">
+            <a href="#sign-up" class="navbar__links" id="signup">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero" id="home">
+      <div class="hero__container">
+        <h1 class="hero__heading">See my <span>Profile</span></h1>
+        <p class="hero__description">Born to Dev</p>
+        <h1></h1>
+        <button class="main__btn"><a style="color: white; text-decoration: none;" href="#about">Scroll down</a></button>
+      </div>
+    </div>
+
+    <!-- About Section -->
+    <div class="main" id="about">
+      <div class="main__container">
+        <div class="main__img--container">
+            <img class = profile_img src="/Assets/IMG_7912.png" alt="Profile">
+          
+        </div>
+        <div class="main__content">
+          <h1>About me</h1>
+          <p style="background: #ff8177;
+          background: -webkit-linear-gradient(to right,#9114ff,#da22ff);
+          background: linear-gradient(to right,#8f0eff,#da22ff);
+          background-size: 100%;
+          -webkit-background-clip: text;
+          -moz-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          -moz-text-fill-color: transparent;">I'm Chanvit Moungyoo</p>
+          <p>Computer Engineering Student</p>
+          <p>Bangkok, Thailand</p>
+
+          
+
+          <!-- Trigger/Open The Modal -->
+          <button class="main__btn" id="myBtn"><a style="color: white; text-decoration: none;" href="#about">More</a></button>
+      
+
+          <!-- The Modal -->
+          <div id="myModal" class="modal">
+
+            <!-- Modal content -->
+            <div class="modal-content">
+              <span class="close">&times;</span>
+              <p style="font-size: 25px;">Firstname: Chanvit </p>
+              <p style="font-size: 25px;">Lastname: Moungyoo </p>
+              <p style="font-size: 25px;">Nickname: Chan </p>
+              <p style="font-size: 25px;">Date of Birth 17 October 1999</p>
+              <p style="font-size: 25px;">Age: 21
+              <p style="font-size: 25px;">Nationality: Thai</p>
+              <p style="font-size: 25px;">Hobbies:  Listen to music, play with my pets <br>cooking, biking, riding motorbike, party, travelling</p>
+            </div>
+
+          </div>
+
+          <script>
+          // Get the modal
+          var modal = document.getElementById("myModal");
+
+          // Get the button that opens the modal
+          var btn = document.getElementById("myBtn");
+
+          // Get the <span> element that closes the modal
+          var span = document.getElementsByClassName("close")[0];
+
+          // When the user clicks the button, open the modal 
+          btn.onclick = function() {
+            modal.style.display = "block";
+          }
+
+          // When the user clicks on <span> (x), close the modal
+          span.onclick = function() {
+            modal.style.display = "none";
+          }
+
+          // When the user clicks anywhere outside of the modal, close it
+          window.onclick = function(event) {
+            if (event.target == modal) {
+              modal.style.display = "none";
+            }
+          }
+          </script>
+
+          <!-- <button class="main__btn" onclick="myFunction1()"><a href="#about" id="about-page">More</a></button>
+          <p class="javascript__contact" id="info1"></p>
+          <p class="javascript__contact" id="info2"></p>
+          <p class="javascript__contact" id="info3"></p>
+          <p class="javascript__contact" id="info4"></p>
+          <script>
+
+            function myFunction1() {
+              document.getElementById("info1").innerHTML = "Nickname: Chan <br>Age: 21<br> Date of Birth: 17 October 1999";
+              document.getElementById("info2").innerHTML = "Nationality: Thai";
+              document.getElementById("info3").innerHTML = "Hobbies: Listen to music, play with my pets <br>cooking  biking, riding motorbike <br> party, travelling";
+            }
+            </script> -->
+
+          <!-- <button class="main__btn"><a href="#">More</a></button> -->
+           <!-- Trigger/Open The Modal -->
+           
+          <h1></h1>
+          <h1>Skills</h1>
+          <div class="skills_development">
+            <h1 style="background: #ff8177;
+            background: -webkit-linear-gradient(to right,#9114ff,#da22ff);
+            background: linear-gradient(to right,#8f0eff,#da22ff);
+            background-size: 100%;
+            -webkit-background-clip: text;
+            -moz-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -moz-text-fill-color: transparent;">Development</h1>
+            <p style="font-size: 20px;">Assembly C C++ CSS Java<br>HTML JavaScript PHP Python SQL</p>
+           <h1></h1> <!--BLANK SPACE-->
+            </div>
+            <div class="skills_design">
+            <h1 style="background: #ff8177;
+            background: -webkit-linear-gradient(to right,#9114ff,#da22ff);
+            background: linear-gradient(to right,#8f0eff,#da22ff);
+            background-size: 100%;
+            -webkit-background-clip: text;
+            -moz-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -moz-text-fill-color: transparent;">Design</h1>
+            <p style="font-size: 20px;">Adobe XD Sketch Adobe Photoshop</p>
+            </div>
+        </div>
+      </div>
+    </div>
+    <!-- Services Section -->
+    <div class="services" id="services">
+      <h1>My Documents</h1>
+      <div class="services__wrapper">
+        <div class="services__card"> 
+          <h2>Preface</h2>
+          <div class="services__btn"><button onclick="myFunction2()">Enter</button></div>
+          <script>
+            function myFunction2() {
+              alert("This portfolio that I have prepared to offer information about my profile likewise education background and skills. The portfolio includes the documentation on the profile. The educational background and contributions received make me proud.");
+            }
+            </script>
+        </div>
+        <div class="services__card">
+          <h2>Curriculum Vitae</h2>
+          <div class="services__btn"><a href="/Assets/Documents/CV_update.pdf">Enter</a></div>
+        </div>
+        <div class="services__card">
+          <h2>Transcript</h2>
+          <div class="services__btn"><a href="/Assets/Documents/Transcript.pdf">Enter</a></div>
+        </div>
+        <div class="services__card">
+          <h2>Student Status</h2>
+          <div class="services__btn"><a href="/Assets/Documents/Student Status.pdf">Enter</a></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Features Section -->
+    <div class="main" id="sign-up">
+      <div class="main__container">
+        <div class="main__content">
+          <h1>Contact</h1>
+          <p>Feel free to contact me</p>
+          <h2>Anytime</h2>
+          <!-- <button class="main__btn"><a href="#">Contact</a></button> -->
+          <!-- <button class= "main__btn" onclick="myFunction()">Contact me</button> -->
+          <button class="main__btn" onclick="myFunction()"><a style="z-index:1;">Contact Me</a></button>
+          <h1></h1>
+          <p class="javascript__contact" id="demo1"></p>
+          <p class="javascript__contact" id="demo2"></p>
+          <p class="javascript__contact" id="demo3"></p>
+          <p class="javascript__contact" id="demo4"></p>
+          <!-- <script>
+            function myFunction() {
+              let text;
+              let person = prompt("Please enter your name:", "Chanvit Moungyoo");
+              if (person == null || person == "") {
+                text = "User cancelled the prompt.";
+              } else {
+                text = "Hello "+ person + "! <br>Thank you for your consideration! <br>You can contact me via mobile or email. <br> Mobile: +66 89 816 8333 <br> E-mail: chanvit.moungyoo@icloud.com ";
+              }
+              document.getElementById("demo").innerHTML = text;
+            }
+            </script> -->
+            <script>
+            function myFunction() {
+              document.getElementById("demo1").innerHTML = "Dear Recruiter, <br> Thank you for your consideration!";
+              document.getElementById("demo2").innerHTML = "You can contact me via mobile or email.";
+              document.getElementById("demo3").innerHTML = "Mobile: +66 89 816 8333 <br> E-mail: chanvit.moungyoo@icloud.com";
+            }
+            </script>
+        </div>
+        <div class="main__img--container">
+          <div class="main__img--card" id="card-2">
+            <i class="fas fa-users"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer Section -->
+    <div class="footer__container">
+      <!-- <div class="footer__links">
+        <div class="footer__link--wrapper">
+          <div class="footer__link--items">
+            <h2>About Me</h2>
+            <a href="/sign__up">How it works</a> <a href="/">Testimonials</a>
+            <a href="/">Careers</a> <a href="/">Terms of Service</a>
+          </div>
+          <div class="footer__link--items">
+            <h2>Contact</h2>
+            <a href="/">Contact</a> <a href="/">Support</a>
+            <a href="/">Destinations</a>
+          </div>
+        </div>
+        <div class="footer__link--wrapper">
+          <div class="footer__link--items">
+            <h2>Social Media</h2>
+            <a  href="https://www.instagram.com/_titydepilote_/">Instagram</a>
+            <a href="https://www.facebook.com/chanvitbkk/">Facebook</a>
+            <a href="https://www.youtube.com/channel/UCCfmZ9CgpV3VH_eg_dDN_dw">Youtube</a> 
+            <a href="https://twitter.com/channnnnnnneiei">Twitter</a>
+          </div>
+        </div>
+      </div> -->
+      <section class="social__media">
+        <div class="social__media--wrap">
+          <div class="footer__logo">
+            <a href="/" id="footer__logo">CHANVIT M.</a>
+          </div>
+          <p class="website__rights">© Ready for the internship</p>
+          <div class="social__icons">
+            <a href="https://www.facebook.com/chanvitbkk/" class="social__icon--link" target="_blank"
+              ><i class="fab fa-facebook"></i
+            ></a>
+            <a href="https://www.instagram.com/_titydepilote_/" class="social__icon--link"
+              ><i class="fab fa-instagram"></i
+            ></a>
+            <a href="https://www.youtube.com/channel/UCCfmZ9CgpV3VH_eg_dDN_dw" class="social__icon--link"
+              ><i class="fab fa-youtube"></i
+            ></a>
+            <a href="https://www.linkedin.com/in/chanvitmoungyoo/" class="social__icon--link"
+              ><i class="fab fa-linkedin"></i
+            ></a>
+            <a href="https://twitter.com/channnnnnnneiei" class="social__icon--link"
+              ><i class="fab fa-twitter"></i
+            ></a>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
