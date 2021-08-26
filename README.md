@@ -13,11 +13,21 @@ I'm 4th year Computer Engineering student in Sirindhorn International Institute 
 
 ## Languages and Tools
 
-<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/fluency/48/000000/github.png" />
-<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/xcode.png" />
+<img align="left" alt="github | GitHub" width="px" src="https://img.icons8.com/fluency/48/000000/github.png" />
+<img align="left" alt="js | JS" width="px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="vscode | VScode" width="px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="css | CSS" width="px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="html | HTML" width="px" src="https://img.icons8.com/color/48/000000/source-code.png" />
+<img align="left" alt="xcode | Xcode" width="px" src="https://img.icons8.com/color/48/000000/xcode.png" />
+<br>
+<br>
+<br>
+
+## Operating Systems
+
+<img align="left" alt="mac | macOS" width="px" src="https://img.icons8.com/color/48/000000/mac-logo.png" />
+<img align="left" alt="window | windowOS" width="px" src="https://img.icons8.com/color/50/000000/windows-10.png" />
+<img align="left" alt="ubuntu | ubuntu" width="px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" />
 <br><br><br>
 
 ## Socials📱
