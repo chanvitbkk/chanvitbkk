@@ -19,7 +19,6 @@ I'm 4th year Computer Engineering student in Sirindhorn International Institute 
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/xcode.png"/>
 
-<br><br>
 
 ## Socials📱
 You can reach me here:
