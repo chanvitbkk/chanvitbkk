@@ -11,12 +11,18 @@ I'm 4th year Computer Engineering student in Sirindhorn International Institute 
 - ⚡ Fun fact: I'm funny haha 
 - 👀 My portfolio: https://chanvitfolio.web.app
 
+## Languages and Tools:
+
+<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/fluency/48/000000/github.png" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/xcode.png"/>
+
+<br><br>
+
 ## Socials📱
-
 You can reach me here:
-
-
-
 
 [<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/apple-mail.png" />](mailto:chanvit.moungyoo@icloud.com)
 [<img align="left" alt="linkedin | LinkedIn" width="px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />](https://www.linkedin.com/in/chanvitbkk/)
