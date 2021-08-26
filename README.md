@@ -11,7 +11,7 @@ I'm 4th year Computer Engineering student in Sirindhorn International Institute 
 - ⚡ Fun fact: I'm funny haha 
 - 👀 My portfolio: https://chanvitfolio.web.app
 
-## Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
