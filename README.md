@@ -19,3 +19,8 @@ You can reach me here:
 
 ✉️ chanvit.moungyoo@icloud.com
 
+🎵 [Spotify](https://open.spotify.com/playlist/5kuWj9GkAIwU8cJ3rSQpGN?si=15090551fb6a4fe1)
+
+📷 [Instagram](https://www.instagram.com/_titydepilote_/)
+
+
