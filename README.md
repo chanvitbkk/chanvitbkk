@@ -5,7 +5,7 @@ Chanvit Moungyoo is here
 I'm 4th year Computer Engineering student in Sirindhorn International Institute of Technology, Thammasat University
 
 - 🔭 I’m currently living in Bangkok, Thailand
-- 🌱 I’m currently learning Blockchain, Web Development and Cloud System
+- 🌱 I’m currently learning Blockchain, Web Development and Cloud Platform System
 - 💬 Ask me about anything
 - 😄 Pronouns: as you like
 - ⚡ Fun fact: I'm funny haha 
