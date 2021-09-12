@@ -6,7 +6,7 @@ I'm a fourth-year Computer Engineering student in Sirindhorn International Insti
 
 - 🔭 I’m currently living in Bangkok, Thailand 🇹🇭
 - 🌱 I’m currently improving knowledge of Blockchain, Web Development, Cloud Platform System and Cyber Security
-- :question: Ask me about: Prototyping
+- :question: Ask me about: Prototyping Design
 - 😄 Pronouns: Chan
 - 👀 My portfolio: https://chanvitfolio.web.app
 
