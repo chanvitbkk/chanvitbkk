@@ -1,8 +1,8 @@
 ## Good Day! :sunny:
 
-Here is Chanvit Moungyoo
+My name is Chanvit Moungyoo
 
-I'm a 4th year Computer Engineering student in Sirindhorn International Institute of Technology, Thammasat University
+I'm a fourth-year Computer Engineering student in Sirindhorn International Institute of Technology, Thammasat University
 
 - 🔭 I’m currently living in Bangkok, Thailand
 - 🌱 I’m currently learning Blockchain, Web Development, Cloud Platform System and Cyber Security
