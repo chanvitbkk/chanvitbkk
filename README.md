@@ -2,13 +2,12 @@
 
 Chanvit Moungyoo is here
 
-I'm 4th year Computer Engineering student in Sirindhorn International Institute of Technology, Thammasat University
+I'm a 4th year Computer Engineering student in Sirindhorn International Institute of Technology, Thammasat University
 
 - 🔭 I’m currently living in Bangkok, Thailand
-- 🌱 I’m currently learning Blockchain, Web Development and Cloud Platform System
-- 💬 Ask me about anything
-- 😄 Pronouns: as you like
-- ⚡ Fun fact: I'm funny haha 
+- 🌱 I’m currently learning Blockchain, Web Development, Cloud Platform System and Cyber Security
+- 😄 Pronouns: Chan
+- ⚡ Fun fact: I'm an enthisiastic learner
 - 👀 My portfolio: https://chanvitfolio.web.app
 
 ## Languages and Tools
@@ -31,7 +30,7 @@ I'm 4th year Computer Engineering student in Sirindhorn International Institute 
 <br><br><br>
 
 ## Socials📱
-You can reach me here:
+Feel free to contact me:
 
 [<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/apple-mail.png" />](mailto:chanvit.moungyoo@icloud.com)
 [<img align="left" alt="linkedin | LinkedIn" width="px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />](https://www.linkedin.com/in/chanvitbkk/)
