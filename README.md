@@ -1,6 +1,6 @@
-## Hi, I'm Chan 🐻
+## Good Day! :sunny:
 
-Chanvit Moungyoo is here
+Here is Chanvit Moungyoo
 
 I'm a 4th year Computer Engineering student in Sirindhorn International Institute of Technology, Thammasat University
 
