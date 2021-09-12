@@ -7,7 +7,7 @@ I'm a 4th year Computer Engineering student in Sirindhorn International Institut
 - 🔭 I’m currently living in Bangkok, Thailand
 - 🌱 I’m currently learning Blockchain, Web Development, Cloud Platform System and Cyber Security
 - 😄 Pronouns: Chan
-- ⚡ Fun fact: I'm an enthisiastic learner
+- ⚡ Fun fact: I'm an enthusiastic learner
 - 👀 My portfolio: https://chanvitfolio.web.app
 
 ## Languages and Tools
