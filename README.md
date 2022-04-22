@@ -46,7 +46,9 @@ I'm a fourth-year Computer Engineering student in Sirindhorn International Insti
 <img align="left" alt="raspberry | Raspberry" width="px" src="https://img.icons8.com/color/48/000000/raspberry-pi.png" />
 <img align="left" alt="Linux | Linux" width="px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />
 <br><br><br>
+
 ## Socials📱
+
 Feel free to contact me:
 
 [<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/apple-mail.png" />](mailto:chanvit.moungyoo@icloud.com)
