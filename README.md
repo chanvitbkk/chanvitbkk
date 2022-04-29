@@ -33,7 +33,14 @@ I'm a fourth-year Computer Engineering student in Sirindhorn International Insti
 <img align="left" alt="Logstash | Logstash" width="px" src="https://img.icons8.com/color/48/000000/logstash.png" />
 <img align="left" alt="Elasticsearch | Elasticsearch" width="px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" />
 <img align="left" alt="AWS | AWS" width="px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
-<img align="left" alt="Zoho | Zoho" width="px" src="https://img.icons8.com/color/48/000000/xcode.png" />
+<br>
+<br>
+<br>
+<img align="left" alt="grafana | grafana" width="45px" src="https://camo.githubusercontent.com/0da365f6b70248d5d8e1566735ba232e443076e3fa7c0978d2ea04b43f30abda/68747470733a2f2f73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7468696e6765722e696f2e66696c65732f706c7567696e732f67726166616e612f696d672f67726166616e612d69636f6e2e706e67" />
+
+
+
+
 <br>
 <br>
 <br>
