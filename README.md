@@ -6,7 +6,7 @@ I'm a fourth-year Computer Engineering student in Sirindhorn International Insti
 
 - 🔭 I’m currently living in Bangkok, Thailand 🇹🇭
 - Corporative Education: Ragnar Corporation Co.,Ltd. from Jan 2022 - June 2022 (Cloud Engineer)
-- GZY Cloud Services from June 2022 - present (Cloud Engineer)
+- GZY Cloud Services from June 2022 - present (Cloud Engineer) 
 - 🌱 I’m currently improving knowledge of Logs Management, Web Development, Cloud Platform System, Network and Cyber Security
 - :question: Ask me about: Network Security and Cyber Attack
 - 😄 Pronouns: Chan
