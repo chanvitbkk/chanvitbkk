@@ -57,5 +57,7 @@ Feel free to contact me:
 
 [<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/apple-mail.png" />](mailto:chanvit.moungyoo@icloud.com)
 [<img align="left" alt="linkedin | LinkedIn" width="px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />](https://www.linkedin.com/in/chanvitbkk/)
+[<img align="left" alt="xing | Xing" width="43px" src="https://icon-library.com/images/xing-icon/xing-icon-6.jpg" />](https://www.xing.com/profile/Chanvit_Moungyoo)
 [<img align="left" alt="instagram | Instagram" width="px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />](https://www.instagram.com/ichbinchan.sh/)
 [<img align="left" alt="spotify | Spotify" width="px" src="https://img.icons8.com/color/48/000000/spotify--v3.png" />](https://open.spotify.com/playlist/5kuWj9GkAIwU8cJ3rSQpGN?si=15090551fb6a4fe1/)
+
