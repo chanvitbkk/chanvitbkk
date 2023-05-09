@@ -10,7 +10,6 @@ I'm a fourth-year Computer Engineering student in Sirindhorn International Insti
 - 🌱 I’m currently improving knowledge of Logs Management, Web Development, Public Cloud Platform, Network and Cyber Security
 - :question: Ask me about: Network Security and Cyber Attack
 - 😄 Pronouns: Chan
-- 👀 My portfolio: https://chanvitfolio.web.app
 
 ## Programming Languages and Tools
 
