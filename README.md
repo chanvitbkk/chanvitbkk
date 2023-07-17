@@ -3,7 +3,8 @@
 My name is Chanvit Moungyoo
 
 - 😄 Pronouns: Chan
-- 🔭 I’m currently living in Gaimersheim, Germany 🇩🇪
+- 🔭 I am currently living in Gaimersheim, Germany 🇩🇪
+- I am actively looking for a job in the cloud-related position
 - Corporative Education: Ragnar Corporation Co.,Ltd. from Jan 2022 - June 2022 (Cloud Infrastructure, CI and CD, Cloud Security)
 - GZY Cloud Services from June 2022 - September 2022 (Cloud Engineer)
 - 🌱 I’m currently improving knowledge of Logs Management, Web Development, Public Cloud Platform, Network and Cyber Security
