@@ -2,12 +2,12 @@
 
 My name is Chanvit Moungyoo
 
+- 😄 Pronouns: Chan
 - 🔭 I’m currently living in Gaimersheim, Germany 🇩🇪
 - Corporative Education: Ragnar Corporation Co.,Ltd. from Jan 2022 - June 2022 (Cloud Infrastructure, CI and CD, Cloud Security)
 - GZY Cloud Services from June 2022 - September 2022 (Cloud Engineer)
 - 🌱 I’m currently improving knowledge of Logs Management, Web Development, Public Cloud Platform, Network and Cyber Security
 - :question: Ask me about: Network Security, Cyber Attack and Cloud technology
-- 😄 Pronouns: Chan
 
 ## Programming Languages and Tools
 
