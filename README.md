@@ -2,15 +2,12 @@
 
 My name is Chanvit Moungyoo
 
-I'm a fourth-year Computer Engineering student in Sirindhorn International Institute of Technology, Thammasat University
-
-- 🔭 I’m currently living in Bangkok, Thailand 🇹🇭
+- 🔭 I’m currently living in Gaimersheim, Germany 🇩🇪
 - Corporative Education: Ragnar Corporation Co.,Ltd. from Jan 2022 - June 2022 (Cloud Infrastructure, CI and CD, Cloud Security)
 - GZY Cloud Services from June 2022 - September 2022 (Cloud Engineer)
 - 🌱 I’m currently improving knowledge of Logs Management, Web Development, Public Cloud Platform, Network and Cyber Security
-- :question: Ask me about: Network Security and Cyber Attack
+- :question: Ask me about: Network Security, Cyber Attack and Cloud technology
 - 😄 Pronouns: Chan
-- 👀 My portfolio: https://chanvitfolio.web.app
 
 ## Programming Languages and Tools
 
@@ -60,4 +57,3 @@ Feel free to contact me:
 [<img align="left" alt="xing | Xing" width="43px" src="https://icon-library.com/images/xing-icon/xing-icon-6.jpg" />](https://www.xing.com/profile/Chanvit_Moungyoo)
 [<img align="left" alt="instagram | Instagram" width="px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />](https://www.instagram.com/ichbinchan.sh/)
 [<img align="left" alt="spotify | Spotify" width="px" src="https://img.icons8.com/color/48/000000/spotify--v3.png" />](https://open.spotify.com/playlist/5kuWj9GkAIwU8cJ3rSQpGN?si=15090551fb6a4fe1/)
-
