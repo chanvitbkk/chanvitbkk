@@ -3,6 +3,7 @@
 My name is Chanvit Moungyoo
 
 - 😄 Pronouns: **Chan**
+- Born on: 17 October 1999 in Samut Prakan, Thailand
 - Graduated from Sirindhorn International Institute of Technology, Thammasat University
 - 🔭 I am currently living in **Gaimersheim, Germany 🇩🇪**
 - I am actively looking for a job in the cloud-related position
