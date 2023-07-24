@@ -3,6 +3,7 @@
 My name is Chanvit Moungyoo
 
 - 😄 Pronouns: **Chan**
+- Graduated from Sirindhorn International Institute of Technology, Thammasat University
 - 🔭 I am currently living in **Gaimersheim, Germany 🇩🇪**
 - I am actively looking for a job in the cloud-related position
 - Corporative Education: Ragnar Corporation Co., Ltd. from Jan 2022 - June 2022 (Cloud Infrastructure, CI and CD, Cloud Security)
