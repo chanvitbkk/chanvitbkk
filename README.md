@@ -1,16 +1,26 @@
 ## Good Day! :sunny:
 
+### Personal Information
 My name is Chanvit Moungyoo
-
 - 😄 Pronouns: **Chan**
 - Born on: 17 October 1999 in Samut Prakan, Thailand
-- Graduated from Sirindhorn International Institute of Technology, Thammasat University
 - 🔭 I am currently living in **Gaimersheim, Germany 🇩🇪**
+
+### Education
+- Thammasat University
+- Faculty: Sirindhorn International Institute of Technology
+- Bachelor of Engineering (Computer Engineering)
+- Major: Computer Engineering
+- Minor: Cloud Computing and Cyber Security
+
+### Professional Experience
 - I am actively looking for a job in the cloud-related position
 - Corporative Education: Ragnar Corporation Co., Ltd. from Jan 2022 - June 2022 (Cloud Infrastructure, CI and CD, Cloud Security)
 - GZY Cloud Services Co., Ltd from June 2022 - September 2022 (Cloud Engineer)
+
+### Leisure
 - 🌱 I’m currently improving knowledge of Logs Management, Web Development, Public Cloud Platform, Network and Cyber Security
-- ❔ Ask me about: Network Security, Cyber Attack and Cloud technology
+- ❔ Ask me about: Network Security, Cyber Attack and Cloud Technology
 
 ## Certificate
 
