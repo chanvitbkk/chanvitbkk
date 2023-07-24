@@ -43,9 +43,9 @@ My name is Chanvit Moungyoo
 <br>
 <br>
 <br>
-## Programming Languages and Tools
+## Programming Language and Tool
 
- **Programming Languages**
+ **Programming Language**
 
 <img align="left" alt="js | JS" width="50px" src="https://img.icons8.com/?size=512&id=108784&format=png" />
 
@@ -61,7 +61,7 @@ My name is Chanvit Moungyoo
 <br>
 
 
-**Tools**
+**Tool**
 
 <img align="left" alt="github | GitHub" width="px" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img align="left" alt="git | git" width="55px" src="https://img.icons8.com/?size=512&id=20906&format=png" />
@@ -89,7 +89,7 @@ My name is Chanvit Moungyoo
 <br>
 <br>
 
-## Operating Systems
+## Operating System
 
 <img align="left" alt="mac | macOS" width="px" src="https://img.icons8.com/color/48/000000/mac-logo.png" />
 <img align="left" alt="window | windowOS" width="px" src="https://img.icons8.com/color/50/000000/windows-10.png" />
@@ -98,7 +98,7 @@ My name is Chanvit Moungyoo
 <img align="left" alt="Linux | Linux" width="px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />
 <br><br>
 
-## Socials📱
+## Social📱
 
 Feel free to contact me:
 
