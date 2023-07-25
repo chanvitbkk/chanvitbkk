@@ -3,11 +3,11 @@
 ### Personal Information
 My name is Chanvit Moungyoo
 - 😄 Pronouns: **Chan**
-- Born on: 17 October 1999 in Samut Prakan, Thailand
+- Born on: 17 October 1999 in **Samut Prakan, Thailand** 🇹🇭
 - 🔭 I am currently living in **Gaimersheim, Germany 🇩🇪**
 
 ### Education
-- Thammasat University
+- Thammasat University **(Gradutated)**
 - Faculty: Sirindhorn International Institute of Technology
 - Bachelor of Engineering (Computer Engineering)
 - Major: Computer Engineering
