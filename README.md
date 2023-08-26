@@ -1,5 +1,7 @@
 ## Good Day! :sunny:
 
+[<img align="center" alt="spotify | Spotify" width="40px" src="https://cdn-icons-png.flaticon.com/128/2195/2195529.png" />](https://chanvitbkk.notion.site/Chanvit-Moungyoo-s-CV-985892df09054b45bae5ac51ceac49de?pvs=4)
+My Curriculum Vitae
 ### Personal Information
 My name is Chanvit Moungyoo
 - 😄 Pronouns: **Chan**
