@@ -1,27 +1,23 @@
 ## Good Day! :sunny:
 
-[<img align="center" alt="spotify | Spotify" width="40px" src="https://cdn-icons-png.flaticon.com/128/2195/2195529.png" />](https://chanvitbkk.notion.site/Chanvit-Moungyoo-s-CV-985892df09054b45bae5ac51ceac49de?pvs=4)
+[<img align="center" alt="spotify | CV" width="40px" src="https://cdn-icons-png.flaticon.com/128/2195/2195529.png" />](https://chanvitbkk.notion.site/Chanvit-Moungyoo-s-CV-985892df09054b45bae5ac51ceac49de?pvs=4)
 My Curriculum Vitae
-### Personal Information
+## Personal Information
 My name is Chanvit Moungyoo
 - 😄 Pronouns: **Chan**
 - Born on: 17 October 1999 in **Samut Prakan, Thailand** 🇹🇭
 
-### Education
-- Thammasat University **(Gradutated)**
-- Faculty: Sirindhorn International Institute of Technology
-- Bachelor of Engineering (Computer Engineering)
-- Major: Computer Engineering
-- Minor: Cloud Computing and Cyber Security
+## Professional Experience
+- Solution Engineer, GZY Cloud Service Co., Ltd. | Bangkok, Thailand **03.2024 - Present**
+- Sabactical | Ingolstadt, Germany **10.22 - 01.2024**
+- Cloud Engineer, GZY Cloud Service Co., Ltd. | Bangkok, Thailand  **06.2022 - 09.2022**
+- Cloud Infrastructure, CI&CD, and Cloud Security (Apprenticeship) | Ragnar Corporation Co., Ltd. | Bangkok, Thailand **01.2022 - 05.2022**
 
-### Professional Experience
-- I am actively looking for a job in the cloud-related position
-- Corporative Education: Ragnar Corporation Co., Ltd. from Jan 2022 - June 2022 (Cloud Infrastructure, CI and CD, Cloud Security)
-- GZY Cloud Services Co., Ltd from June 2022 - September 2022 (Cloud Engineer)
-
-### Leisure
-- 🌱 I’m currently improving knowledge of Logs Management, Web Development, Public Cloud Platform, Network and Cyber Security
-- ❔ Ask me about: Network Security, Cyber Attack and Cloud Technology
+## Education
+- Sirindhorn International Institute of Technology, Thammasat University **08.2018 - 05.2022** **(Gradutated)**
+- Bachelor of Engineering **(B.Eng)** 
+- **Major:** Computer Engineering
+- **Minor:** Cloud Computing and Cyber Security
 
 ## Certificate
 
