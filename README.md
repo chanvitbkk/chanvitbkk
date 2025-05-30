@@ -6,7 +6,6 @@ My Curriculum Vitae
 My name is Chanvit Moungyoo
 - 😄 Pronouns: **Chan**
 - Born on: 17 October 1999 in **Samut Prakan, Thailand** 🇹🇭
-- 🔭 I am currently living in **Gaimersheim, Germany 🇩🇪**
 
 ### Education
 - Thammasat University **(Gradutated)**
@@ -28,6 +27,7 @@ My name is Chanvit Moungyoo
 
 ### Amazon Web Services Training and Certification
 
+[<img align="left" alt="aws | aws_accri_business" width="80px" src="Assets/AWS/badge4.png" />](https://www.credly.com/badges/ddab40d1-27d7-4a79-b0c9-026dc09e2769/public_url)
 [<img align="left" alt="aws | aws_accri_business" width="80px" src="Assets/AWS/badge2.png" />](https://www.credly.com/badges/a677e930-6cc3-4f1d-852a-698cfd17bd16/public_url)
 [<img align="left" alt="aws | aws_accri_tech" width="80px" src="Assets/AWS/badge1.png" />](https://www.credly.com/badges/67cc11b6-3654-4b8b-9825-794a6bfb6cd0?source=linked_in_profile)
 [<img align="left" alt="aws | aws_migration" width="80px" src="Assets/AWS/badge3.png" />](https://www.credly.com/badges/8fc09392-8f30-4b18-8ff2-5887fa2896f3/public_url) <br><br><br>
@@ -42,6 +42,13 @@ My name is Chanvit Moungyoo
 * AWS Partner Migration-Programs and Resources -->
 ### JumpCloud
  [<img align="left" alt="jumpcloud | jumpcloud" width="120px" src="Assets/JumpCloud/Badge.png" />](https://university.jumpcloud.com/certificates/9uu3vrfagd)
+<br>
+<br>
+<br>
+### New Relic
+ [<img align="left" alt="jumpcloud | jumpcloud" width="85" src="Assets/NewRelic/Badge.png" />](https://university.jumpcloud.com/certificates/9uu3vrfagd)
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -63,7 +70,7 @@ My name is Chanvit Moungyoo
 <br>
 
 
-**Tool**
+**Tools**
 
 <img align="left" alt="github | GitHub" width="px" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img align="left" alt="git | git" width="55px" src="https://img.icons8.com/?size=512&id=20906&format=png" />
@@ -105,7 +112,7 @@ My name is Chanvit Moungyoo
 Feel free to contact me:
 
 [<img align="left" alt="mail | Mail" width="px" src="https://img.icons8.com/color/48/000000/apple-mail.png" />](mailto:chanvit.moungyoo@web.de)
-[<img align="left" alt="linkedin | LinkedIn" width="px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />](https://www.linkedin.com/in/chanvitbkk/)
+[<img align="left" alt="linkedin | LinkedIn" width="px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />](https://www.linkedin.com/in/chanvitm/)
 [<img align="left" alt="xing | Xing" width="43px" src="https://icon-library.com/images/xing-icon/xing-icon-6.jpg" />](https://www.xing.com/profile/Chanvit_Moungyoo)
 [<img align="left" alt="instagram | Instagram" width="px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />](https://www.instagram.com/ichbinchan.sh/)
 [<img align="left" alt="spotify | Spotify" width="px" src="https://img.icons8.com/color/48/000000/spotify--v3.png" />](https://open.spotify.com/playlist/5kuWj9GkAIwU8cJ3rSQpGN?si=15090551fb6a4fe1/)
