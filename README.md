@@ -4,7 +4,7 @@
 My Curriculum Vitae
 ## Personal Information
 My name is Chanvit Moungyoo
-- 😄 Pronouns: **Chan**
+- Pronouns: **Chan**
 - Born on: 17 October 1999 in **Samut Prakan, Thailand** 🇹🇭
 
 ## Professional Experience
@@ -57,13 +57,6 @@ My name is Chanvit Moungyoo
 <img align="left" alt="css | CSS" width="px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="html | HTML" width="px" src="https://img.icons8.com/color/48/000000/source-code.png" />
 <img align="left" alt="cmd | cmd" width="px" src="https://img.icons8.com/fluency/48/000000/console.png" /> <br> <br> <br>
-<img align="left" alt="ts | TS" width="45px" src="https://img.icons8.com/?size=512&id=13441&format=png" />
-<img align="left" alt="ts | TS" width="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" />
-
-
-<br>
-<br>
-<br>
 
 
 **Tools**
@@ -83,14 +76,17 @@ My name is Chanvit Moungyoo
 <img align="left" alt="grafana | grafana" width="50px" src="https://img.icons8.com/?size=512&id=9uVrNMu3Zx1K&format=png" />
 <img align="left" alt="Postman | Postman" width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Trello | Trello" width="55px" src="https://img.icons8.com/?size=512&id=21049&format=png" />
-<img align="left" alt="jk | jk" width="55px" src="https://img.icons8.com/?size=512&id=39292&format=png" />
+<img align="left" alt="tf | tf" width="55px" src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" />
+<img align="left" alt="m365 | m365" width="55px" src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000" />
+<img align="left" alt="apple | apple" width="55px" src="https://img.icons8.com/?size=100&id=30840&format=png&color=000000" />
+<img align="left" alt="apple | apple" width="55px" src="https://img.icons8.com/?size=100&id=OXVeOEj6qZqX&format=png&color=000000" />
 <br>
 <br>
 
 ## Cloud Provider
 <img align="left" alt="AWS | AWS" width="50px" src="https://img.icons8.com/?size=512&id=33039&format=png" />
 <img align="left" alt="GCP | GCP" width="50px" src="https://img.icons8.com/?size=512&id=20774&format=png" />
-
+<img align="left" alt="Azure | Azure" width="50px" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" />
 <br>
 <br>
 
