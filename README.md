@@ -1,14 +1,15 @@
 ## Good Day! :sunny:
 
-[<img align="center" alt="spotify | CV" width="40px" src="https://cdn-icons-png.flaticon.com/128/2195/2195529.png" />](https://chanvitbkk.notion.site/Chanvit-Moungyoo-s-CV-985892df09054b45bae5ac51ceac49de?pvs=4)
-My Curriculum Vitae
+<!-- [<img align="center" alt="spotify | CV" width="40px" src="https://cdn-icons-png.flaticon.com/128/2195/2195529.png" />](https://chanvitbkk.notion.site/Chanvit-Moungyoo-s-CV-985892df09054b45bae5ac51ceac49de?pvs=4)
+My Curriculum Vitae -->
 ## Personal Information
 My name is Chanvit Moungyoo
 - Pronouns: **Chan**
-- Born on: 17 October 1999 in **Samut Prakan, Thailand** 🇹🇭
+- Born on: 17 October 1999 in **Bangkok, Thailand** 🇹🇭
 
 ## Professional Experience
-- Solution Engineer, GZY Cloud Service Co., Ltd. | Bangkok, Thailand **03.2024 - Present**
+- Cloud Specialist, GZY Cloud Service Co., Ltd. | Bangkok, Thailand **09.2025 - Present**
+- Solution Engineer, GZY Cloud Service Co., Ltd. | Bangkok, Thailand **03.2024 - 08.2025**
 - Sabactical | Ingolstadt, Germany **10.22 - 01.2024**
 - Cloud Engineer, GZY Cloud Service Co., Ltd. | Bangkok, Thailand  **06.2022 - 09.2022**
 - Cloud Infrastructure, CI&CD, and Cloud Security (Apprenticeship) | Ragnar Corporation Co., Ltd. | Bangkok, Thailand **01.2022 - 05.2022**
